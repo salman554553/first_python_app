@@ -5,3 +5,4 @@ while number > 0:
     number = number // 10
     x = x * 10 + y
     print(x)
+print("The Program Ends")
